@@ -36,7 +36,7 @@ orbit-queue/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/orbit-queue.git
+git clone https://github.com/shahid-io/orbit-queue.git
 cd orbit-queue
 ```
 
